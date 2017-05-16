@@ -1,0 +1,31 @@
+#toolbar {
+    position: fixed;
+    margin-top: 3%;
+    width: 50%;
+    height: 40px;
+    padding-left: 10px;
+    background: lightblue;
+    border-bottom: 1px solid #333;
+    font-family: Verdana;
+}
+
+#content {
+    position: fixed;
+    margin-top: 6%;
+    width: 50%;
+    height: auto;
+    padding-left: 10px;
+    border-bottom: 1px solid #333;
+    font-size: 15px;
+    font-family: Georgia;
+}
+
+#content p {
+    margin-left: 18%;
+    margin-top: 5px;
+    height: auto;
+}
+
+#content h5{
+    float: left;
+}
